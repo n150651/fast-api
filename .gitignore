@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 venv/
 hello.py
+config.py
 # C extensions
 *.so
 
